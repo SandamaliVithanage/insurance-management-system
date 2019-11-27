@@ -1,1 +1,2 @@
-# insurance-management-system
+# i-management
+ i-management
